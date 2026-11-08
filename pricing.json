@@ -1,0 +1,3 @@
+{
+  "mock": {"in_per_mtok": 3.0, "out_per_mtok": 15.0, "_note": "nominal rate used only for simulated mock runs"}
+}
